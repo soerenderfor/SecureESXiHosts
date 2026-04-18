@@ -1,0 +1,3 @@
+VMHost,User,Pass,Ntp1,Ntp2,Ntp3,ESXiLogPath
+192.168.0.51,root,Password!,192.168.1.60,192.168.1.61,192.168.1.62,[vhost01-datastore01]/ESXiLogs
+192.168.0.52,root,Password!,192.168.1.60,192.168.1.61,192.168.1.62,[vhost02-datastore01]/ESXiLogs
